@@ -40,4 +40,4 @@ Bài tập cuối học phần INT2215
 - Clone repository về máy
 - Tìm và chạy file SpaceWar.exe
 - Thư mục headers chứa các file .h và .cpp, thư mục res chứa hình ảnh, âm thanh
-- Demo: 
+- Demo: https://youtu.be/xlY39-FvxtY
